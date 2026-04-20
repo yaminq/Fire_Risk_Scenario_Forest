@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "start": "2024-10-27T10:00:00-0700"
+      },
+      "geometry": {
+        "coordinates": [
+          -120.0306,
+          38.9014
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
